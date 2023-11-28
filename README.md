@@ -24,7 +24,8 @@ Welcome to my coding playground! I'm Holly, a passionate developer on a mission 
 - 🌐 Exploring the realms of programming and web development.
 - 🚀 Currently on a journey to master the art of turning ideas into elegant solutions.
 - 🎓 Final year MSci student at the University of Glasgow, diving deep into the world of Computer Science.
-- 
+- 👥 Head of Engagement at the Glasgow University Google Developer Student Club.
+
 ## My Toolbox 🧰
 
 ### Programming Languages
