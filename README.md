@@ -14,3 +14,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Absolutely! Here's a fun and engaging GitHub profile README for you:
+
+markdown
+Copy code
+# Hello, World! 👋
+
+Welcome to my coding playground! I'm [Your Name], a passionate developer on a mission to turn coffee into code. ☕️👨‍💻
+
+## About Me
+
+- 🌐 Exploring the realms of programming and web development.
+- 🚀 Currently on a journey to master the art of turning ideas into elegant solutions.
+- 🎓 Final year MSci student at the University of Glasgow, diving deep into the world of Computer Science.
+- 
+## My Toolbox 🧰
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-%230871B6.svg?&style=for-the-badge&logo=haskell&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
+
+### Frameworks & Libraries
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
