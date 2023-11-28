@@ -15,14 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-Absolutely! Here's a fun and engaging GitHub profile README for you:
-
-markdown
-Copy code
 # Hello, World! 👋
 
-Welcome to my coding playground! I'm [Your Name], a passionate developer on a mission to turn coffee into code. ☕️👨‍💻
+Welcome to my coding playground! I'm Holly, a passionate developer on a mission to turn coffee into code. ☕️👨‍💻
 
 ## About Me
 
