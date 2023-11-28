@@ -49,3 +49,10 @@ Welcome to my coding playground! I'm [Your Name], a passionate developer on a mi
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
+
+## GitHub Stats 📈
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=holly-hewitt&show_icons=true&count_private=true&hide=stars&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holly-hewitt&layout=compact&theme=radical)
+
