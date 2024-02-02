@@ -17,12 +17,9 @@ Here are some ideas to get you started:
 
 # Hello, World! 👋
 
-Welcome to my coding playground! I'm Holly, a passionate developer on a mission to turn coffee into code. ☕️👨‍💻
-
 ## About Me
 
-- 🌐 Exploring the realms of programming and web development.
-- 🚀 Currently on a journey to master the art of turning ideas into elegant solutions.
+- 🌐 Exploring the realms of programming and data science.
 - 🎓 Final year MSci student at the University of Glasgow, diving deep into the world of Computer Science.
 - 👥 Head of Engagement at the Glasgow University Google Developer Student Club.
 
